@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoDinamico\bin\Debug\TiposPrimitivos.TipoDinamico.exe.config
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoDinamico\bin\Debug\TiposPrimitivos.TipoDinamico.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoDinamico\bin\Debug\TiposPrimitivos.TipoDinamico.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoDinamico\obj\Debug\TiposPrimitivos.TipoDinamico.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoDinamico\obj\Debug\TiposPrimitivos.TipoDinamico.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoDinamico\obj\Debug\TiposPrimitivos.TipoDinamico.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoDinamico\obj\Debug\TiposPrimitivos.TipoDinamico.pdb

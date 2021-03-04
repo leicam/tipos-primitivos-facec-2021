@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.ExercicioII\bin\Debug\TiposPrimitivos.ExercicioII.exe.config
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.ExercicioII\bin\Debug\TiposPrimitivos.ExercicioII.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.ExercicioII\bin\Debug\TiposPrimitivos.ExercicioII.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.ExercicioII\obj\Debug\TiposPrimitivos.ExercicioII.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.ExercicioII\obj\Debug\TiposPrimitivos.ExercicioII.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.ExercicioII\obj\Debug\TiposPrimitivos.ExercicioII.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.ExercicioII\obj\Debug\TiposPrimitivos.ExercicioII.pdb

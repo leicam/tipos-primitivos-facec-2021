@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoInteiro\bin\Debug\TiposPrimitivos.TipoInteiro.exe.config
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoInteiro\bin\Debug\TiposPrimitivos.TipoInteiro.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoInteiro\bin\Debug\TiposPrimitivos.TipoInteiro.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoInteiro\obj\Debug\TiposPrimitivos.TipoInteiro.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoInteiro\obj\Debug\TiposPrimitivos.TipoInteiro.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoInteiro\obj\Debug\TiposPrimitivos.TipoInteiro.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoInteiro\obj\Debug\TiposPrimitivos.TipoInteiro.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoPontoFlutuante\bin\Debug\TiposPrimitivos.TipoPontoFlutuante.exe.config
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoPontoFlutuante\bin\Debug\TiposPrimitivos.TipoPontoFlutuante.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoPontoFlutuante\bin\Debug\TiposPrimitivos.TipoPontoFlutuante.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoPontoFlutuante\obj\Debug\TiposPrimitivos.TipoPontoFlutuante.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoPontoFlutuante\obj\Debug\TiposPrimitivos.TipoPontoFlutuante.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoPontoFlutuante\obj\Debug\TiposPrimitivos.TipoPontoFlutuante.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoPontoFlutuante\obj\Debug\TiposPrimitivos.TipoPontoFlutuante.csproj.CoreCompileInputs.cache

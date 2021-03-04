@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.Conversao\bin\Debug\TiposPrimitivos.Conversao.exe.config
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.Conversao\bin\Debug\TiposPrimitivos.Conversao.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.Conversao\bin\Debug\TiposPrimitivos.Conversao.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.Conversao\obj\Debug\TiposPrimitivos.Conversao.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.Conversao\obj\Debug\TiposPrimitivos.Conversao.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.Conversao\obj\Debug\TiposPrimitivos.Conversao.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.Conversao\obj\Debug\TiposPrimitivos.Conversao.pdb

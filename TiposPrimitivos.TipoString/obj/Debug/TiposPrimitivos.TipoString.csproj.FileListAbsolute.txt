@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoString\bin\Debug\TiposPrimitivos.TipoString.exe.config
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoString\bin\Debug\TiposPrimitivos.TipoString.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoString\bin\Debug\TiposPrimitivos.TipoString.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoString\obj\Debug\TiposPrimitivos.TipoString.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoString\obj\Debug\TiposPrimitivos.TipoString.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoString\obj\Debug\TiposPrimitivos.TipoString.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoString\obj\Debug\TiposPrimitivos.TipoString.csprojAssemblyReference.cache

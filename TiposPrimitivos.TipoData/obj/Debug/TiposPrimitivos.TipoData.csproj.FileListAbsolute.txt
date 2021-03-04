@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoData\bin\Debug\TiposPrimitivos.TipoData.exe.config
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoData\bin\Debug\TiposPrimitivos.TipoData.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoData\bin\Debug\TiposPrimitivos.TipoData.pdb
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoData\obj\Debug\TiposPrimitivos.TipoData.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoData\obj\Debug\TiposPrimitivos.TipoData.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoData\obj\Debug\TiposPrimitivos.TipoData.exe
+C:\Users\juliano.maciel\source\repos\TiposPrimitivos\TiposPrimitivos.TipoData\obj\Debug\TiposPrimitivos.TipoData.pdb
